@@ -13,8 +13,8 @@ Markdown 由 John Gruber 于 2004年创立. 它旨在成为一门容易读写的
 在不同的解析器中，Markdown 的实现方法有所不同。
 此教程会指出哪些特征是通用，哪一些只对某一解析器有效。
 
-- [HTML标签](#html-elements)
-- [标题](#headings)
+- [HTML标签](#HTML标签)
+- [标题](#标题)
 - [文本样式](#simple-text-styles)
 - [段落](#paragraphs)
 - [列表](#lists)
